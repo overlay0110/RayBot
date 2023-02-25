@@ -12,4 +12,4 @@ RayBot은 지메일, 깃허브, 애플계정 등 각각 16자리의 안전한 �
 
 # Work
 * 텔레그램 봇 연동
-python-telegram-bot를 사용해서 연동함
+  * python-telegram-bot를 사용해서 연동함
