@@ -21,7 +21,7 @@ RayBot은 지메일, 깃허브, 애플계정 등 각각 16자리의 안전한 �
 * 할일 등록,삭제,보기
 
 * 최신영화, 뉴스 등 크롤링
- * beautifulsoup4를 사용
+  * beautifulsoup4를 사용
 
 * 구글 번역기 연동
- * googletrans를 사용
+  * googletrans를 사용
